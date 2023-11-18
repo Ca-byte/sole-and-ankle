@@ -77,7 +77,7 @@ const ShoeCard = ({
     
     const Image = styled.img`
       width: 100%;
-      border-radius: 16px 4px;
+      border-radius: 16px 16px 4px 4px;
     `;
     
     const Row = styled.div`
